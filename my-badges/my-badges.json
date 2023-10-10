@@ -1,0 +1,98 @@
+[
+  {
+    "id": "a-commit",
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/semrel-extra/zx-semrel/commit/adfca74e789f38a2ac8f6475216d9fac2ca29129\"><strong>a</strong>dfca74e789f38a2ac8f6475216d9fac2ca29129</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/semrel-extra/demo-msr-cicd/commit/ab866aea0e5fad02bb2a8d11f753821de13ee78f\"><strong>ab</strong>866aea0e5fad02bb2a8d11f753821de13ee78f</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "stars-100",
+    "desc": "I collected 100 stars.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-100.png?raw=true"
+  },
+  {
+    "id": "stars-500",
+    "desc": "I collected 500 stars.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-500.png?raw=true"
+  },
+  {
+    "id": "stars-1000",
+    "desc": "I collected 1000 stars.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-1000.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/antongolub/misc/commit/b0f3b9007b29c541da6a3eb3c949ea5f32571dcb\">b0f3b90</a>\n- <a href=\"https://github.com/antongolub/misc/commit/1f5d924cc475e74ff7a336f2551d1b9f86daf740\">1f5d924</a>\n- <a href=\"https://github.com/antongolub/misc/commit/13eaed3510b65e02f1d94a8bd91c05b31a46c452\">13eaed3</a>\n- <a href=\"https://github.com/antongolub/misc/commit/ac87a40b8367bf10f807d1b41439f3122743a8b0\">ac87a40</a>\n- <a href=\"https://github.com/antongolub/misc/commit/77c6df4f238f07ebed9b6205947b3c7afc888bd1\">77c6df4</a>\n- <a href=\"https://github.com/antongolub/misc/commit/860cfdedbeca8190036c65a57a8ac508125bf562\">860cfde</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/antongolub/yarn-audit-fix/commit/4fe8e9800ff194b36b0490d6735db71f6e38b4df\">4fe8e98</a>\n- <a href=\"https://github.com/antongolub/action-setup-bun/commit/6b30a1838f88f48bc4f2bc5a67343c68ac4cb3f8\">6b30a18</a>\n- <a href=\"https://github.com/antongolub/npm-registry-firewall/commit/28d55775a349fe797c9a5c209d483e931a62674d\">28d5577</a>\n- <a href=\"https://github.com/antongolub/npm-registry-firewall/commit/4b287a55a785e6915535ca2bcc3e4afe3621af70\">4b287a5</a>\n- <a href=\"https://github.com/antongolub/action-setup-bun/commit/ba55269346ec66e42dcce111e76fb1292cd621a9\">ba55269</a>\n- <a href=\"https://github.com/antongolub/action-setup-bun/commit/9d93b1de2f45507b2a310808b218bd7ea4534bfc\">9d93b1d</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "dead-commit",
+    "desc": "I pushed a commit with \"dead\" 4 times.",
+    "body": "- <a href=\"https://github.com/qiwi/blank-ts-monorepo/commit/67dbafd437b88ef5fa63a0d326d2f4cbb7a7dead\">67dbafd437b88ef5fa63a0d326d2f4cbb7a7<strong>dead</strong></a>\n- <a href=\"https://github.com/qiwi/substrate/commit/75ca0220324d544af7deade7e196cdb3c61d9b30\">75ca0220324d544af7<strong>dead</strong>e7e196cdb3c61d9b30</a>\n- <a href=\"https://github.com/semrel-extra/demo-msr-cicd/commit/6af995ea3011fb99f5befc76a50115e5c3dead38\">6af995ea3011fb99f5befc76a50115e5c3<strong>dead</strong>38</a>\n- <a href=\"https://github.com/semrel-extra/zx-semrel/commit/3a71968deadd99b3ebe2a433af7e3f3ce5a32892\">3a71968<strong>dead</strong>d99b3ebe2a433af7e3f3ce5a32892</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit",
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/qiwi/semantic-release-gh-pages-plugin/commit/fc0aaf4996fe6643c8774e4b33fb53f6135e8a1d\">fc0aaf4</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/qiwi/qorsproxy/commit/ac7ae0daf5a62e399a45f07e3b47e1c029e965b6\">ac7ae0d</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+  },
+  {
+    "id": "my-badges-contributor",
+    "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/6\">#6</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/semrel-extra/zx-semrel/commit/6f6a0b842c0bb74c4e9eca6ec7202f804d505aac\">6f6a0b8</a>: fix: missing shebang\n- <a href=\"https://github.com/semrel-extra/zx-semrel/commit/8560c3c1b1782fe1e69797d2edf30441b420e3ec\">8560c3c</a>: fix(pkg): add type module",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "fix-3",
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/semrel-extra/demo-msr-cicd/commit/612853e599d11f030d797fddb71114a4a9e47e54\">612853e</a>: fix(release): check execa result fields before extend\n- <a href=\"https://github.com/semrel-extra/demo-msr-cicd/commit/545453f6c8dfb339b932b4075aa02440e36831d0\">545453f</a>: fix(release): broken promise\n- <a href=\"https://github.com/semrel-extra/demo-msr-cicd/commit/b7b80067eca4030fe38bf5ec1a64e3caf15f6c19\">b7b8006</a>: fix(release): handle execa pipe case",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-3.png?raw=true"
+  },
+  {
+    "id": "fix-4",
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/qiwi/semantic-release-gh-pages-plugin/commit/7b9d605374952c8ff00a1cd40eba8ac9793eb4b0\">7b9d605</a>: fix: use promise catch instead of pipe\n- <a href=\"https://github.com/qiwi/semantic-release-gh-pages-plugin/commit/cb268b73321e781ab6d340cf110856e0c332f435\">cb268b7</a>: fix: fix cmd typo\n- <a href=\"https://github.com/qiwi/semantic-release-gh-pages-plugin/commit/8cc09c59b28969bf8dc0c0dc6bb66c50ac147866\">8cc09c5</a>: fix: always return err code 0 on doc branch delete\n- <a href=\"https://github.com/qiwi/semantic-release-gh-pages-plugin/commit/a07bee20c6765fbe8af6fa6d3288fc3d7f0068f9\">a07bee2</a>: fix: drop local docs branch before gh-publish\n\ncloses #63",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-4.png?raw=true"
+  },
+  {
+    "id": "fix-5",
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/semrel-extra/demo-msr-cicd/commit/3b637f4d9cdf06d8272a52522fce5c1b1643982a\">3b637f4</a>: fix(release): return git prepare step\n- <a href=\"https://github.com/semrel-extra/demo-msr-cicd/commit/e142d8ea8709f476ce75047ef8ede93f9163953c\">e142d8e</a>: fix(release): exclude git prepare step\n- <a href=\"https://github.com/semrel-extra/demo-msr-cicd/commit/75c70b536703858e6fab0bae793d8e1871aed7fe\">75c70b5</a>: fix: foo\n\nBREAKING CHANGE: bar\n- <a href=\"https://github.com/semrel-extra/demo-msr-cicd/commit/4d11abe609c1eb5b5da456ed345c2f11381d0cc2\">4d11abe</a>: fix(release): exclude .npmrc\n- <a href=\"https://github.com/semrel-extra/demo-msr-cicd/commit/b63fb62f754dba516384c0f0624b82853b8a868e\">b63fb62</a>: fix(release): remove git lock",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-5.png?raw=true"
+  },
+  {
+    "id": "chore-commit",
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/antongolub/abstractest/commit/b49b892e1827acdce17dc3241d6c8df367714b1f\">b49b892</a>: chore: up dev deps",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
+  }
+]
