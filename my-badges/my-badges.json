@@ -94,5 +94,11 @@
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/antongolub/abstractest/commit/b49b892e1827acdce17dc3241d6c8df367714b1f\">b49b892</a>: chore: up dev deps",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
+  },
+  {
+    "id": "delorean",
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/antongolub/yarn-audit-fix/commit/2b9b92ef1136c71683a0bdbb454f33b91bcf70d2\">2b9b92e</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/delorean/delorean.png?raw=true"
   }
 ]
