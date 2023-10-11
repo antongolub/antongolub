@@ -1,4 +1,7 @@
-### Hi there 👋
+<!-- my-badges start -->
+<!-- my-badges end -->
+
+<!-- ### Hi there 👋-->
 
 <!--
 **antongolub/antongolub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
