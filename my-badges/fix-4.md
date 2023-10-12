@@ -4,12 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/qiwi/semantic-release-gh-pages-plugin/commit/7b9d605374952c8ff00a1cd40eba8ac9793eb4b0">7b9d605</a>: fix: use promise catch instead of pipe
-- <a href="https://github.com/qiwi/semantic-release-gh-pages-plugin/commit/cb268b73321e781ab6d340cf110856e0c332f435">cb268b7</a>: fix: fix cmd typo
-- <a href="https://github.com/qiwi/semantic-release-gh-pages-plugin/commit/8cc09c59b28969bf8dc0c0dc6bb66c50ac147866">8cc09c5</a>: fix: always return err code 0 on doc branch delete
-- <a href="https://github.com/qiwi/semantic-release-gh-pages-plugin/commit/a07bee20c6765fbe8af6fa6d3288fc3d7f0068f9">a07bee2</a>: fix: drop local docs branch before gh-publish
-
-closes #63
+- <a href="https://github.com/qiwi/libdefkit/commit/0f20a2a6bcf74bae2119e5fe42000b51e2a54815">0f20a2a</a>: fix: up deps, fix some vuls
+- <a href="https://github.com/qiwi/libdefkit/commit/900cfa2e4d034d52bd9b186dac6d2060e5078d30">900cfa2</a>: fix(deps): update find-up and nanoid
+- <a href="https://github.com/qiwi/libdefkit/commit/ae3eda53c7af15e0490c253c6e619c5c1ce09509">ae3eda5</a>: fix: replace fse.esistSync with find-up helper
+- <a href="https://github.com/qiwi/libdefkit/commit/f69068eea3f9021360437d4a274dd6a79ec3dbf7">f69068e</a>: fix: improve bin paths resolver
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

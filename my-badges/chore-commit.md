@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/antongolub/abstractest/commit/b49b892e1827acdce17dc3241d6c8df367714b1f">b49b892</a>: chore: up dev deps
+- <a href="https://github.com/antongolub/antongolub/commit/fc143c4e3f56a32f3dc55121d041c704f0229954">fc143c4</a>: chore: update README.md
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

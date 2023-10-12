@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/antongolub/yarn-audit-fix/commit/2b9b92ef1136c71683a0bdbb454f33b91bcf70d2">2b9b92e</a>
+- <a href="https://github.com/qiwi/common-formatters/commit/3685a6e938f6dfb0367eee9f3bce99023cb5c50e">3685a6e</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

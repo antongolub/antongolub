@@ -4,8 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/semrel-extra/zx-semrel/commit/6f6a0b842c0bb74c4e9eca6ec7202f804d505aac">6f6a0b8</a>: fix: missing shebang
-- <a href="https://github.com/semrel-extra/zx-semrel/commit/8560c3c1b1782fe1e69797d2edf30441b420e3ec">8560c3c</a>: fix(pkg): add type module
+- <a href="https://github.com/antongolub/semantic-release-npm/commit/c817a8870ed931d4d5ce76edb7768d2d0bec005b">c817a88</a>: fix: add missed `preferLocal` option for execa call (#458)
+- <a href="https://github.com/antongolub/semantic-release-npm/commit/002439ef93ddef31170dbf0361ddc89d2b02eee8">002439e</a>: fix: add `preferLocal` option to allow execa to use local npm version (#445)
+
+Co-authored-by: Matt Travi <programmer@travi.org>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

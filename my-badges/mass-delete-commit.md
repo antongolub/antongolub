@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/qiwi/semantic-release-gh-pages-plugin/commit/fc0aaf4996fe6643c8774e4b33fb53f6135e8a1d">fc0aaf4</a>
+- <a href="https://github.com/antongolub/flow-typed/commit/e15ac3176b5ec9686c327a9afae6a264ccd005c3">e15ac31</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

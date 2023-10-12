@@ -4,9 +4,13 @@
 
 Commits:
 
-- <a href="https://github.com/semrel-extra/demo-msr-cicd/commit/612853e599d11f030d797fddb71114a4a9e47e54">612853e</a>: fix(release): check execa result fields before extend
-- <a href="https://github.com/semrel-extra/demo-msr-cicd/commit/545453f6c8dfb339b932b4075aa02440e36831d0">545453f</a>: fix(release): broken promise
-- <a href="https://github.com/semrel-extra/demo-msr-cicd/commit/b7b80067eca4030fe38bf5ec1a64e3caf15f6c19">b7b8006</a>: fix(release): handle execa pipe case
+- <a href="https://github.com/antongolub/jsonrpc-lite/commit/1f8e38cb321fb70a1e3da28405539c4b58b73a3b">1f8e38c</a>: fix: repack with microbundle
+- <a href="https://github.com/antongolub/jsonrpc-lite/commit/d7b3b34ad2c69fb90ce28818722e8affb3b3b16b">d7b3b34</a>: fix: expose jsonrpc lib as global variable
+
+closes #16
+- <a href="https://github.com/antongolub/jsonrpc-lite/commit/bd71f171dba3a220e6b615f064e0ec6da5a26d02">bd71f17</a>: fix: export RpcStatusType enum as const
+
+closes #13
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

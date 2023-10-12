@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/qiwi/qorsproxy/commit/ac7ae0daf5a62e399a45f07e3b47e1c029e965b6">ac7ae0d</a>
+- <a href="https://github.com/qiwi/qorsproxy/commit/0231b762a532fdd55bf16803e11959ff3df0b164">0231b76</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
