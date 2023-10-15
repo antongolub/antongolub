@@ -70,13 +70,6 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/delorean/delorean.png?raw=true"
   },
   {
-    "id": "github-anniversary-10",
-    "tier": 0,
-    "desc": "I joined GitHub 10 years ago.",
-    "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-10.png?raw=true"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
@@ -89,5 +82,26 @@
     "desc": "I have participated in pull requests with 10 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/apache/thrift/pull/1947\">#1947</a>: THRIFT-5029: Fix Node.js lib entry point",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-10.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-10.png?raw=true"
+  },
+  {
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/qiwi/pijma/issues/55\">#55</a>: Fixed dep versions enlarges final app bundles\n- <a href=\"https://github.com/qiwi/pijma/issues/128\">#128</a>: Modal does not support close action on shadow area\n- <a href=\"https://github.com/qiwi/pijma/issues/104\">#104</a>: Think about backdrop blur for modals\n- <a href=\"https://github.com/qiwi/pijma/issues/97\">#97</a>: Use single contract for size prop\n- <a href=\"https://github.com/qiwi/pijma/issues/113\">#113</a>: Button: do not mount spinner svg before `loading` attr becomes true\n- <a href=\"https://github.com/qiwi/decorator-utils/issues/37\">#37</a>: Assert substitute type\n- <a href=\"https://github.com/qiwi/decorator-utils/issues/40\">#40</a>: Single argument scheme for createDecorator\n- <a href=\"https://github.com/qiwi/decorator-utils/issues/38\">#38</a>: Provide (non)repeatable flag handling",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-3.png?raw=true"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/qiwi/uniconfig/issues/42\">#42</a>\n- <a href=\"https://github.com/qiwi/pijma/issues/42\">#42</a>\n- <a href=\"https://github.com/antongolub/yarn-audit-fix/issues/42\">#42</a>\n- <a href=\"https://github.com/antongolub/npm-registry-firewall/issues/42\">#42</a>\n- <a href=\"https://github.com/qiwi/semantic-release-toolkit/issues/42\">#42</a>\n- <a href=\"https://github.com/qiwi/nestjs-enterprise/issues/42\">#42</a>\n- <a href=\"https://github.com/imagemin/imagemin-webp/issues/42\">#42</a>\n- <a href=\"https://github.com/imsnif/synp/issues/42\">#42</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/the-ultimate-question/the-ultimate-question.png?raw=true"
   }
 ]
